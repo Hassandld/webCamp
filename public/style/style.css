@@ -1,0 +1,13 @@
+h1{
+    color: red;
+}
+img{
+    height: 100px;
+} 
+nav{
+    padding: 20px;
+    background-color: rgb(0, 60, 255);
+}
+nav button{
+    margin-left: 500px;
+}
